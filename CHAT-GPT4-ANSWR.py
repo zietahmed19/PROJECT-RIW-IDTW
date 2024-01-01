@@ -2,7 +2,7 @@ import openai
 import csv
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Define the CSV file containing Stack Overflow questions
 csv_file = "stackoverflow_errors.csv"

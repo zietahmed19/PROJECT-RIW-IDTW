@@ -1,4 +1,4 @@
-import openai
+
 import nltk
 import string
 from sklearn.feature_extraction.text import TfidfVectorizer
