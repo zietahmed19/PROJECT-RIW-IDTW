@@ -1,0 +1,12 @@
+Query: "draw close polygon from simpl line"
+Top 10 documents for the query:
+Document ID: 0, Score: 4.7919007703905745
+Document ID: 4, Score: 3.7590762362187444
+Document ID: 8, Score: 3.332422081740368
+Document ID: 10, Score: 3.332422081740368
+Document ID: 2, Score: 3.255804435914745
+Document ID: 6, Score: 3.255804435914745
+Document ID: 3099, Score: 0.8753318338541201
+Document ID: 3116, Score: 0.8753318338541201
+Document ID: 2775, Score: 0.7681046982181235
+Document ID: 835, Score: 0.7590234308435807
