@@ -134,7 +134,7 @@ for doc_id, score in scores:
     scores = search_engine.cosine_score(query)
 
 # Print and save the results
-results_file_path = 'tfidf.results.txt'
+results_file_path = 'tfidf-chatgpt4.txt'
 with open(results_file_path, 'w') as file:
     print('Query: "{}"'.format(" ".join(query.terms)))
     file.write('Query: "{}"\n'.format(" ".join(query.terms)))
