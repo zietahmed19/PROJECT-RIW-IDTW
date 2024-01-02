@@ -85,7 +85,7 @@ print(f"hello============================================== {txt_file_path}")
 
 # Define your documents and query here
 documents = parse_txt(txt_file_path)
-query = "Drawing closed polygons from simple lines"
+query = "What does the &quot;yield&quot; keyword do in Python?"
 
 # Preprocess the documents
 preprocessed_documents = preprocess(documents)

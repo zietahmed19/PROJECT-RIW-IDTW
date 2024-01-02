@@ -1,12 +1,12 @@
-Query: "draw close polygon from simpl line"
+Query: "what doe the & quot ; yield keyword do in python ?"
 Top 10 documents for the query:
-Document ID: 68, Score: 0.29546604810011173
-Document ID: 370, Score: 0.1705874024069944
-Document ID: 76, Score: 0.15257801115486028
-Document ID: 376, Score: 0.14890089221637026
-Document ID: 372, Score: 0.14773302405005587
-Document ID: 86, Score: 0.14332208530595164
-Document ID: 390, Score: 0.14332208530595164
-Document ID: 78, Score: 0.13556912051744366
-Document ID: 384, Score: 0.13213643371901446
-Document ID: 382, Score: 0.12895195530554526
+Document ID: 0, Score: 2.482994174101258
+Document ID: 154, Score: 2.1817572356363644
+Document ID: 12, Score: 2.009400122084133
+Document ID: 104, Score: 1.938784262371338
+Document ID: 304, Score: 0.8942792000081162
+Document ID: 414, Score: 0.6425760467542969
+Document ID: 8, Score: 0.5611189807625352
+Document ID: 36, Score: 0.5428387127048858
+Document ID: 10, Score: 0.4521586400704516
+Document ID: 24, Score: 0.389541969144184
