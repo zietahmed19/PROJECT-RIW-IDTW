@@ -1,1 +1,0 @@
-Question: Drawing closed polygons from simple lines

@@ -71,7 +71,7 @@ def perform_query_expansion(rank_file, collection, queries, n_d, n_t):
 # Given inputs
 ranked_results_file ="tfidf-chatgpt4.results.txt"
 
-file_path ="ChatGPT4_answers.txt"
+file_path ="Chat-GPT4-ANSWERS/ChatGPT4_answers.txt"
 collection_preprocessed={}
 with open(file_path, 'r', encoding='utf-8') as file:
     current_document = ""

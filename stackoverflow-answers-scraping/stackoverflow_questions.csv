@@ -1,0 +1,26 @@
+Tag,Question ID,Question Title,Question Link,Question Votes
+python,231767,What does the &quot;yield&quot; keyword do in Python?,https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do-in-python,12820
+python,419163,What does if __name__ == &quot;__main__&quot;: do?,https://stackoverflow.com/questions/419163/what-does-if-name-main-do,8149
+python,394809,Does Python have a ternary conditional operator?,https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator,7861
+python,100003,What are metaclasses in Python?,https://stackoverflow.com/questions/100003/what-are-metaclasses-in-python,7334
+python,82831,How do I check whether a file exists without exceptions?,https://stackoverflow.com/questions/82831/how-do-i-check-whether-a-file-exists-without-exceptions,7088
+javascript,5767325,How can I remove a specific item from an array in JavaScript?,https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array-in-javascript,11768
+javascript,178325,How do I check if an element is hidden in jQuery?,https://stackoverflow.com/questions/178325/how-do-i-check-if-an-element-is-hidden-in-jquery,8652
+javascript,1335851,"What does &quot;use strict&quot; do in JavaScript, and what is the reasoning behind it?",https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it,8460
+javascript,503093,How do I redirect to another webpage?,https://stackoverflow.com/questions/503093/how-do-i-redirect-to-another-webpage,7702
+javascript,111102,How do JavaScript closures work?,https://stackoverflow.com/questions/111102/how-do-javascript-closures-work,7619
+java,11227809,Why is processing a sorted array faster than processing an unsorted array?,https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array,27172
+java,40480,Is Java &quot;pass-by-reference&quot; or &quot;pass-by-value&quot;?,https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value,7755
+java,6841333,Why is subtracting these two epoch-milli Times (in year 1927) giving a strange result?,https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-epoch-milli-times-in-year-1927-giving-a-strange-r,7535
+java,309424,How do I read / convert an InputStream into a String in Java?,https://stackoverflow.com/questions/309424/how-do-i-read-convert-an-inputstream-into-a-string-in-java,4702
+java,271526,How do I avoid checking for nulls in Java?,https://stackoverflow.com/questions/271526/how-do-i-avoid-checking-for-nulls-in-java,4398
+c#,7074,What is the difference between String and string in C#?,https://stackoverflow.com/questions/7074/what-is-the-difference-between-string-and-string-in-c,7516
+c#,105372,How to enumerate an enum?,https://stackoverflow.com/questions/105372/how-to-enumerate-an-enum,4366
+c#,29482,How do I cast int to enum in C#?,https://stackoverflow.com/questions/29482/how-do-i-cast-int-to-enum-in-c,3884
+c#,444798,Case insensitive &#39;Contains(string)&#39;,https://stackoverflow.com/questions/444798/case-insensitive-containsstring,3417
+c#,141088,How to iterate over a dictionary?,https://stackoverflow.com/questions/141088/how-to-iterate-over-a-dictionary,3287
+php,3737139,Reference Guide: What does this symbol mean in PHP? (PHP Syntax),https://stackoverflow.com/questions/3737139/reference-guide-what-does-this-symbol-mean-in-php-php-syntax,5086
+php,369602,Deleting an element from an array in PHP,https://stackoverflow.com/questions/369602/deleting-an-element-from-an-array-in-php,3056
+php,2068344,How do I get a YouTube video thumbnail from the YouTube API?,https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api,2795
+php,60174,How can I prevent SQL injection in PHP?,https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php,2773
+php,12859942,Why shouldn&#39;t I use mysql_* functions in PHP?,https://stackoverflow.com/questions/12859942/why-shouldnt-i-use-mysql-functions-in-php,2715

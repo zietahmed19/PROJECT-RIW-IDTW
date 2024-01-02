@@ -1,0 +1,6 @@
+{
+    // ... other settings
+    "extension.csvFilePath": "stackoverflow_errors.csv",
+    "extension.outputFilePath": "output.json"
+  }
+  

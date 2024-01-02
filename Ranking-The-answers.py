@@ -10,7 +10,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 user_query = "Drawing closed polygons from simple lines."
 
 # Path to the text file containing answers
-answers_file_path = "ChatGPT4_answers.txt"
+answers_file_path = "Chat-GPT4-ANSWERS/ChatGPT4_answers.txt"
 
 # Function to read answers from a text file
 def read_answers_from_file(file_path):

@@ -80,7 +80,7 @@ def parse_txt(txt_file_path):
         documents = file.read().split('\n')  # Split documents by newline
     return documents
 
-txt_file_path ="ChatGPT4_answers.txt"
+txt_file_path ="Chat-GPT4-ANSWERS/ChatGPT4_answers.txt"
 print(f"hello============================================== {txt_file_path}")
 
 # Define your documents and query here
